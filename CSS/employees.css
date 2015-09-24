@@ -1,5 +1,6 @@
 body {
-   background-image: url("../Images/ZenBG.png");
+   background-image: url("../Images/background.png");
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 img.img-circle {
 	border:2px solid #DDD;
