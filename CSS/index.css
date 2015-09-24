@@ -1,4 +1,7 @@
-nav.vertical {
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+  nav.vertical {
   border-radius: 4px;
   box-shadow: 0 0 10px rgba(0,0,0,.15);
   overflow: hidden;
