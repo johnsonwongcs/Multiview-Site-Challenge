@@ -1,3 +1,9 @@
 body {
    background-image: url("../Images/ZenBG.png");
 }
+img.img-circle {
+	border:2px solid #DDD;
+	width:100px;
+	display:inline;
+	border-radius:50%
+}
