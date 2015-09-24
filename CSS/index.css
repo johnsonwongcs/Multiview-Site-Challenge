@@ -1,0 +1,17 @@
+nav.vertical {
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0,0,0,.15);
+  overflow: hidden;
+  text-align: left;
+  width: 170px;
+  font-style: Helvetica;
+}
+
+nav.vertical > ul {
+    list-style-type: none;
+}
+
+nav.vertical > ul > li {
+      display: block;
+}
+
